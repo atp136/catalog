@@ -343,3 +343,21 @@
     restroom that is consistent with their gender identity
     (see: https://en.wikipedia.org/wiki/Public_Facilities_Privacy_%26_Security_Act).
     This dataset is broken into files of no more than 50,000 Tweet IDs each.
+    
+ - title: PA Perspectives on the 2016 U.S. Election Tweet ID Dataset         
+   creator: 
+     - Anthony Pinter
+     - Ben Goldman
+   url: https://scholarsphere.psu.edu/collections/cz30ps790
+   published: 2016-12-26              
+   added: 2017-01-17T18:25:00Z         
+   tweets: "17,899,637"               
+   dates: 2016-09-01 - 2016-11-14      
+   tags:                               
+     - politics
+     - Pennsylvania general election
+     - United States general election
+   description: >        
+     Tweet IDs collected from roughly 310 Pennsylvania political accounts, including representatives,
+     senators, and college political organizations; and tweets collected using the hashtags
+     "#trump", "#hillary", and "#election2016".
